@@ -1,0 +1,83 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.header h1 {
+    margin: 75px auto;
+    text-align: center;
+}
+
+/* Box/Border Shadows */
+.boxShadows {
+    background-color: white;
+    box-shadow: 3px 3px 3px #b0b0b0;
+    height: 400px;
+}
+.boxBorder {
+    border-top: solid 2px #f7f7f7;
+}
+
+/* Fonts/Position */
+.lightGrey {
+    margin-bottom: 0px;
+    font-size: 17px;
+    color: #d4d4d4;
+}
+.boldBlack {
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 15px;
+    color: black   
+}
+.boldWhite {
+    font-weight: bold;
+    color: white;
+}
+.fontPose {
+    padding: 20px 30px;
+}
+.fontPose2 {
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.centerText {
+    text-align: center;
+}
+.listFormat {
+    display: inline;
+    list-style: none;
+}
+.listFormat li {
+    display: inline;
+}
+
+/* Floats */
+.floatRight {
+    float: right;
+}
+.floatLeft {
+    float: left;
+}
+
+/* Images */
+img {
+    width: 100%;
+}
+
+/* Specific Rules */
+.trendRules {
+    padding-top: 100px;
+}
+.iconic {
+    margin: 0px 75px;
+    font-size: 35px;
+    color: black;
+}
+.gaga {
+    margin: 10px auto;
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: #666666;
+    width: 60%;
+}
